@@ -674,8 +674,8 @@ img {
 }
 
 .contact-icon {
-    width: 44px;
-    height: 44px;
+    width: 40px;
+    height: 40px;
 
     flex-shrink: 0;
 
@@ -684,7 +684,7 @@ img {
 
     border-radius: 12px;
 
-    background: var(--teal);
+    background: #071a2b;
 
     color: white;
 
