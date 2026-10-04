@@ -57,6 +57,10 @@ img {
     display: block;
 }
 
+img.logo-image {
+    margin-top: 50px;
+    max-width: 25%;
+}
 
 /* =========================
    GENERAL
